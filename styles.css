@@ -423,9 +423,11 @@ text {
   .info h1 {
     font-size: 13px;
   }
+
   .info-1 img {
     width: 40px;
   }
+
   .info p {
     color: #5d8082;
     font-size: 9px;
